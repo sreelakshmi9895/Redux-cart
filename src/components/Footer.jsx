@@ -8,7 +8,7 @@ import { faInstagram, faTwitter, faWhatsapp } from '@fortawesome/free-brands-svg
 
 function Footer() {
   return (
-    <div style={{height:'250px'}} className='bg-warning d-flex justify-content-center align-items-center flex-column text-light'>
+    <div style={{height:'250px'}} className='bg-info d-flex justify-content-center align-items-center flex-column text-light'>
      <div className='d-flex justify-content-between w-100'>
       <div style={{width:'300px'}} className='intro'>
    <h4>
